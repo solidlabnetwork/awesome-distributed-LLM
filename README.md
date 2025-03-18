@@ -2593,4 +2593,45 @@ The following figure shows an overview of selected prior, current, and future re
   year={2025},
   publisher={ACM New York, NY}
 }
+@article{themeta2024large,
+  title={Large Concept Models: Language Modeling in a Sentence Representation Space},
+  author={The, LCM and Barrault, Lo{\"\i}c and Duquenne, Paul-Ambroise and Elbayad, Maha and Kozhevnikov, Artyom and Alastruey, Belen and Andrews, Pierre and Coria, Mariano and Couairon, Guillaume and Costa-juss{\`a}, Marta R and others},
+  journal={arXiv preprint arXiv:2412.08821},
+  year={2024}
+}
+@misc{li2018federated,
+    title={Federated Optimization in Heterogeneous Networks},
+    author={Tian Li and Anit Kumar Sahu and Manzil Zaheer and Maziar Sanjabi and Ameet Talwalkar and Virginia Smith},
+    year={2018},
+    eprint={1812.06127},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+@article{mcmahan2016communication,
+  title={Communication-efficient learning of deep networks from decentralized data},
+  author={McMahan, H Brendan and Moore, Eider and others},
+  journal={arXiv:1602.05629},
+  year={2016}
+}
+@misc{nvidia2024jetson,
+  author       = {NVIDIA Developer Blog},
+  title        = {Bringing Generative AI to Life with NVIDIA Jetson},
+  year         = {2024},
+  url          = {https://developer.nvidia.com/blog/bringing-generative-ai-to-life-with-jetson/},
+  note         = {Accessed: 2024-12-19}
+}
+@misc{verge2024nvidia,
+  author       = {The Verge},
+  title        = {{NVIDIA's \$249 Dev Kit Promises Cheap, Small AI Power}},
+  year         = {2024},
+  url          = {https://www.theverge.com/2024/12/17/24323450/nvidia-jetson-orin-nano-super-developer-kit-software-update-ai-artificial-intelligence-maker-pc},
+  note         = {Accessed: 2024-12-19}
+}
+@misc{wsj2024nvidia,
+  author       = {Wall Street Journal},
+  title        = {NVIDIA Introduces Device Aimed at Small Companies, Hobbyists},
+  year         = {2024},
+  url          = {https://www.wsj.com/tech/ai/nvidia-introduces-device-aimed-at-small-companies-hobbyists-3972ae41?utm_source},
+  note         = {Accessed: 2024-12-19}
+}
 ```
