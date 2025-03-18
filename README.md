@@ -1,7 +1,7 @@
 # awesome-distributed-LLM
 An Evolving List of Distributed LLM and Multimodal LLM Papers and Repositories
 ---
-**Note:** While we tried to include and review as many relevant articles as possible, we would like to ask the research community to share any recent/prior works that fit in the scope of this study for inclusion on the GitHub page as well as future versions of this survey paper. We will review each suggestion and include it if we realize it fits the scope of this survey. Please email your suggestions to solidlabnetwork@gmail.com and cc hadi.amini@ieee.org
+**🟢Note:** While we tried to include and review as many relevant articles as possible, we would like to ask the research community to share any recent/prior works that fit in the scope of this study for inclusion on the GitHub page as well as future versions of this survey paper. We will review each suggestion and include it if we realize it fits the scope of this survey. Please email your suggestions to solidlabnetwork@gmail.com and cc hadi.amini@ieee.org
 
 ---
 This work is licensed under a Creative Commons Attribution 4.0 International License.
