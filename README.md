@@ -13,7 +13,8 @@ Under the following terms:
 
 Full license text: https://creativecommons.org/licenses/by/4.0/
 ---
-### Figure 1: System Architecture
+The following figure shows the connection of some of the 100 papers and how they contribute to various aspects of decentralizing the LLM pipeline. This figure shows four primary areas of research focus: Algorithmic Framework, Hardware Infrastructure, Data Layer, and Security and Privacy. 
+
 ![System Architecture](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figint_001.jpg)
 
 
