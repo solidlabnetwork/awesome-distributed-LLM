@@ -198,12 +198,15 @@ The following figure shows an overview of selected prior, current, and future re
   year={2024}
 }
 ```
+```bibtex
 @article{yin2023surveyMMLM,
   title={A survey on multimodal large language models},
   author={Yin, Shukang and Fu, Chaoyou and Zhao, Sirui and Li, Ke and Sun, Xing and Xu, Tong and Chen, Enhong},
   journal={arXiv preprint arXiv:2306.13549},
   year={2023}
 }
+```
+
 
 @article{shannon1951prediction,
   title={Prediction and entropy of printed English},
