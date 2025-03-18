@@ -1624,6 +1624,7 @@ The following figure shows an overview of selected prior, current, and future re
   volume={37},
   pages={139561--139588},
   year={2024}
+}
 @inproceedings{147vlmkwon2024toward,
   title={Toward grounded commonsense reasoning},
   author={Kwon, Minae and Hu, Hengyuan and Myers, Vivek and Karamcheti, Siddharth and Dragan, Anca and Sadigh, Dorsa},
