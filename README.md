@@ -31,14 +31,14 @@ The following figure shows an overview of selected prior, current, and future re
 ---
 **Link to access source file of figures:** [drive](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 ---
-# **Table of Contents**  
+## Table of Contents  
 **I.** [Surveyed Papers on Distributed LLMs](#i-llms-surveys)  
 **II.** [Surveyed Papers on VLMs](#ii-vlms-surveys)  
 **III.** [Small Language Models (SLMs)](#iii-slms-surveys)  
 
 ---
 
-# **I. Distributed LLMs** <a name="i-llms-surveys"></a>
+## **I. Distributed LLMs** <a name="i-llms-surveys"></a>
 
 | No. | Paper Title | Url | Code |
 |----|-------------|------------|-------------|
@@ -144,7 +144,7 @@ The following figure shows an overview of selected prior, current, and future re
 | 100 | FLoRA: Enhancing Vision-Language Models with Parameter-Efficient Federated Learning | [Link](https://arxiv.org/pdf/2404.15182.pdf) | [GitHub](https://github.com/dphuongn/FLoRA) |
 ---
 
-# **II. VLMs** <a name="ii-vlms-surveys"></a>
+## **II. VLMs** <a name="ii-vlms-surveys"></a>
 
 | Paper Title | Url | Code |
 |-------------|------------|-------------|
@@ -162,7 +162,7 @@ The following figure shows an overview of selected prior, current, and future re
 | Federated Instruction Tuning of LLMs with Domain Coverage Augmentation | [Link](https://arxiv.org/pdf/2409.20135.pdf) | N/A |
 ---
 
-# **III. SLMs** <a name="iii-slms-surveys"></a>
+## **III. SLMs** <a name="iii-slms-surveys"></a>
 
 | Model Name | Parameters | URL |
 |------------|------------|------------|
