@@ -20,7 +20,6 @@ The following figure shows the connection of some of the 100 papers and how they
 The following figure shows an overview of selected prior, current, and future research directions.
 ![Research Directions](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figfuture_001.jpg)
 ---
-![System Architecture](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figint_001.jpg)
 **Link to access source file of figures:** [drive](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 
 # **Table of Contents**  
