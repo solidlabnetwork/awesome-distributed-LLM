@@ -23,10 +23,6 @@ The following figure shows the connection of some of the 100 papers and how they
 
 ![Algorithmic Framework](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figint_001.jpg)
 
----
-The following figure shows an overview of selected prior, current, and future research directions.
-
-![Research Directions](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figfuture_001.jpg)
 
 ---
 **Link to access source file of figures:** [drive](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
@@ -190,7 +186,11 @@ The following figure shows an overview of selected prior, current, and future re
 | **Gemma (2B)** | 2B | [link](https://huggingface.co/google/gemma-2b) |
 | **Reformer** | 110M | [link](https://huggingface.co/docs/transformers/en/model_doc/reformer) |
 ---
+---
+The following figure shows an overview of selected prior, current, and future research directions.
 
+![Research Directions](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figfuture_001.jpg)
+---
 ## Citation
 
 ```bibtex
