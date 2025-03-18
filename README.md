@@ -30,7 +30,7 @@ The following figure shows an overview of selected prior, current, and future re
 
 ---
 **Link to access source file of figures:** [drive](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
-
+---
 # **Table of Contents**  
 **I.** [Surveyed Papers on Distributed LLMs](#i-llms-surveys)  
 **II.** [Surveyed Papers on VLMs](#ii-vlms-surveys)  
