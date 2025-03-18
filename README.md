@@ -13,6 +13,7 @@ Under the following terms:
 
 Full license text: https://creativecommons.org/licenses/by/4.0/
 ---
+**Link to access source file of figures:** [drive](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 
 # **Table of Contents**  
 **I.** [Surveyed Papers on Distributed LLMs](#i-llms-surveys)  
