@@ -416,9 +416,7 @@ The following figure shows an overview of selected prior, current, and future re
   url = {https://lmsys.org/blog/2023-03-30-vicuna/},
   note = {Accessed: 2024-10-15}
 }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%****** Domain Specific papers 
 @inproceedings{1zeng2023distributedLLM,
   title={Distributed training of large language models},
   author={Zeng, Fanlong and Gan, Wensheng and Wang, Yongheng and Philip, S Yu},
@@ -697,9 +695,6 @@ The following figure shows an overview of selected prior, current, and future re
   pages={39--55}
 }
 
-Here’s the BibTeX entry for the GPT-4V system card link:
-
-```bibtex
 @misc{openai2023gpt4vsystemcard,
   author = {{OpenAI}},
   title = {GPT-4V System Card},
@@ -707,8 +702,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   url = {https://openai.com/index/gpt-4v-system-card/},
   note = {Accessed: 2024-10-29}
 }
-```
-
 
 @article{alayrac2022flamingo,
   title={Flamingo: a Visual Language Model for Few-Shot Learning},
@@ -1062,14 +1055,14 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   pages={15--20},
   year={2021}
 }
-%Ne
+
 @article{70tang2024fusionllm,
   title={FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression},
   author={Tang, Zhenheng and Kang, Xueze and Yin, Yiming and Pan, Xinglin and Wang, Yuxin and He, Xin and Wang, Qiang and Zeng, Rongfei and Zhao, Kaiyong and Shi, Shaohuai and others},
   journal={arXiv preprint arXiv:2410.12707},
   year={2024}
 }
-%Ne
+
 @article{71sheng2024hybridflow,
   title={HybridFlow: A Flexible and Efficient RLHF Framework},
   author={Sheng, Guangming and Zhang, Chi and Ye, Zilingfeng and Wu, Xibin and Zhang, Wang and Zhang, Ru and Peng, Yanghua and Lin, Haibin and Wu, Chuan},
@@ -1077,21 +1070,20 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2024}
 }
 
-%Ne
 @article{72shen2024edgeqat,
   title={EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge},
   author={Shen, Xuan and Kong, Zhenglun and Yang, Changdi and Han, Zhaoyang and Lu, Lei and Dong, Peiyan and Lyu, Cheng and Li, Chih-hsiang and Guo, Xuehang and Shu, Zhihao and others},
   journal={arXiv preprint arXiv:2402.10787},
   year={2024}
 }
-%Ne
+
 @article{73wang2023privatelora,
   title={Privatelora for efficient privacy preserving LLM},
   author={Wang, Yiming and Lin, Yu and Zeng, Xiaodong and Zhang, Guannan},
   journal={arXiv preprint arXiv:2311.14030},
   year={2023}
 }
-%Ne
+
 @article{74du2024distributed,
   title={Distributed Foundation Models for Multi-Modal Learning in 6G Wireless Networks},
   author={Du, Jun and Lin, Tianyi and Jiang, Chunxiao and Yang, Qianqian and Bader, C Faouzi and Han, Zhu},
@@ -1102,14 +1094,14 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2024},
   publisher={IEEE}
 }
-%Ne
+
 @article{75chen2023confidant,
   title={Confidant: Customizing Transformer-based LLMs via Collaborative Edge Training},
   author={Chen, Yuhao and Yan, Yuxuan and Yang, Qianqian and Shu, Yuanchao and He, Shibo and Chen, Jiming},
   journal={arXiv preprint arXiv:2311.13381},
   year={2023}
 }
-%Ne
+
 @article{76huang2024edgellm,
   title={EdgeLLM: A highly efficient cpu-fpga heterogeneous edge accelerator for large language models},
   author={Huang, Mingqiang and Shen, Ao and Li, Kai and Peng, Haoxiang and Li, Boyu and Yu, Hao},
@@ -1117,7 +1109,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2024}
 }
 
-%Ne
 @article{77xu2024hethub,
   title={HetHub: A Heterogeneous distributed hybrid training system for large-scale models},
   author={Xu, Si and Huang, Zixiao and Zeng, Yan and Yan, Shengen and Ning, Xuefei and Ye, Haolin and Gu, Sipei and Shui, Chunsheng and Lin, Zhezheng and Zhang, Hao and others},
@@ -1125,7 +1116,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2024}
 }
 
-%Ne
 @article{78shuai2024mitigating,
   title={Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training},
   author={Shuai, Zitao and Shen, Liyue},
@@ -1133,14 +1123,14 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2024}
 }
 
-%Ne
+
 @article{79guo2024survey,
   title={A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models},
   author={Guo, Cong and Cheng, Feng and Du, Zhixu and Kiessling, James and Ku, Jonathan and Li, Shiyu and Li, Ziru and Ma, Mingyuan and Molom-Ochir, Tergel and Morris, Benjamin and others},
   journal={arXiv preprint arXiv:2410.07265},
   year={2024}
 }
-%Ne
+
 
 @article{80fang2024automated,
   title={Automated federated pipeline for parameter-efficient fine-tuning of large language models},
@@ -1148,7 +1138,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   journal={arXiv preprint arXiv:2404.06448},
   year={2024}
 }
-%Ne
 
 @article{81fan2023fate,
   title={Fate-LLM: A industrial grade federated learning framework for large language models},
@@ -1157,7 +1146,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2023}
 }
 
-%Ne
 @inproceedings{82woisetschlager2024federated,
   title={Federated fine-tuning of llms on the very edge: The good, the bad, the ugly},
   author={Woisetschl{\"a}ger, Herbert and Erben, Alexander and Wang, Shiqiang and Mayer, Ruben and Jacobsen, Hans-Arno},
@@ -1165,7 +1153,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   pages={39--50},
   year={2024}
 }
-%Ne
 @article{83friha2024llm,
   title={LLM-based edge intelligence: A comprehensive survey on architectures, applications, security and trustworthiness},
   author={Friha, Othmane and Ferrag, Mohamed Amine and Kantarci, Burak and Cakmak, Burak and Ozgun, Arda and Ghoualmi-Zine, Nassira},
@@ -1174,7 +1161,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   publisher={IEEE}
 }
 
-%Ne
 @inproceedings{84fu2024serverlessllm,
   title={$\{$ServerlessLLM$\}$:$\{$Low-Latency$\}$ Serverless Inference for Large Language Models},
   author={Fu, Yao and Xue, Leyang and Huang, Yeqi and Brabete, Andrei-Octavian and Ustiugov, Dmitrii and Patel, Yuvraj and Mai, Luo},
@@ -1184,15 +1170,12 @@ Here’s the BibTeX entry for the GPT-4V system card link:
 }
 
 
-
-%Ne
 @article{85xinimmediate,
   title={Immediate Communication for Distributed AI Tasks},
   author={Xin, Jihao and Bae, Seongjong and Park, KyoungSoo and Canini, Marco and Hwang, Changho}
 }
 
 
-%Ne
 @misc{86shabani2024harnessing,
   title={Harnessing Federated Learning for LLM Fine-Tuning: A Distributed Approach},
   author={Shabani, Naser},
@@ -1200,7 +1183,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
 }
 
 
-%Ne
 @article{87yan2024lightweight,
   title={Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model},
   author={Yan, Hao and Guo, Yuhong},
@@ -1217,7 +1199,6 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   year={2024}
 }
 
-%Ne
 @phdthesis{89raje2024communication,
   title={Communication-Efficient LLM Training for Federated Learning},
   author={Raje, Arian},
@@ -1225,7 +1206,7 @@ Here’s the BibTeX entry for the GPT-4V system card link:
   school={Ph. D. thesis, Carnegie Mellon University Pittsburgh, PA}
 }
 
-%Ne
+
 @article{110zhao2023privacy,
   title={Privacy-preserving fine-tuning of artificial intelligence (ai) foundation models with federated learning, differential privacy, offsite tuning, and parameter-efficient fine-tuning (peft)},
   author={Zhao, Jun},
