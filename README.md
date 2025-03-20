@@ -23,9 +23,11 @@ The following figure shows the connection of some of the 100 papers and how they
 
 ![Algorithmic Framework](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figint_001.jpg)
 
-
 ---
-**Link to access source file of figures:** [drive](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
+**Link to the paper PDF:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
+---
+---
+**Link to access source file of figures:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 ---
 ## Table of Contents  
 **I.** [Surveyed Papers on Distributed LLMs](#i-llms-surveys)  
