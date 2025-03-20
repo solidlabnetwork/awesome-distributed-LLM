@@ -26,7 +26,6 @@ The following figure shows the connection of some of the 100 papers and how they
 ---
 **Link to the paper PDF:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 ---
----
 **Link to access source file of figures:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 ---
 ## Table of Contents  
