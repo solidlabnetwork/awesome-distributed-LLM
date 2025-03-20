@@ -24,9 +24,9 @@ The following figure shows the connection of some of the 100 papers and how they
 ![Algorithmic Framework](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figint_001.jpg)
 
 ---
-**Link to the paper PDF:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
+**Link to the paper PDF:** [Download Link]([https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link](https://drive.google.com/file/d/1uxSs6jLfwCDR3jthq7l1GXQEuARpzc6N/view?usp=drive_link))
 ---
-**Link to the Latex source file of paper:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
+**Link to the Latex source file of paper:** [Download Link](https://drive.google.com/file/d/1ENOA8nhTDh8wkLXX8MGiUB_JujUmAyHD/view?usp=drive_link)
 ---
 **Link to access source file of figures:** [Download Link](https://drive.google.com/drive/folders/1ioSrvUvg2t2ulwOKisY_g-h_Ns9BDCfF?usp=drive_link)
 ---
