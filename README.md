@@ -1,5 +1,7 @@
 # awesome-distributed-LLM
 ## An Evolving List of Distributed LLM and Multimodal LLM Papers and Repositories
+Citation to paper: Hadi Amini, Md Jueal Mia, Yasaman Saadati, Ahmed Imteaj, Seyedsina Nabavirazavi, Urmish Thakker, Md Zarif Hossain, Awal Ahmed Fime, and S. S. Iyengar, " Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions." arXiv preprint arXiv:2503.16585 (2025). [Link to Paper](https://arxiv.org/pdf/2503.16585)
+
 ---
 **📝Note:** While we tried to include and review as many relevant articles as possible, we would like to ask the research community to share any recent/prior works that fit in the scope of this study for inclusion on the GitHub page as well as future versions of this survey paper. We will review each suggestion and include it if we realize it fits the scope of this survey. Please email your suggestions to solidlabnetwork@gmail.com and cc hadi.amini@ieee.org
 
