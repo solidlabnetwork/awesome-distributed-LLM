@@ -6,21 +6,6 @@ Citation to paper: Hadi Amini, Md Jueal Mia, Yasaman Saadati, Ahmed Imteaj, Seye
 **📝Note:** While we tried to include and review as many relevant articles as possible, we would like to ask the research community to share any recent/prior works that fit in the scope of this study for inclusion on the GitHub page as well as future versions of this survey paper. We will review each suggestion and include it if we realize it fits the scope of this survey. Please email your suggestions to solidlabnetwork@gmail.com and cc hadi.amini@ieee.org
 
 ---
-## License
-
-This work is licensed under a **Creative Commons Attribution 4.0 International License**.
-
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format.
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-[Full license text](https://creativecommons.org/licenses/by/4.0/)
-
----
 The following figure shows the connection of some of the 100 papers and how they contribute to various aspects of decentralizing the LLM pipeline. This figure shows four primary areas of research focus: Algorithmic Framework, Hardware Infrastructure, Data Layer, and Security and Privacy. 
 
 ![Algorithmic Framework](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figint_001.jpg)
@@ -2643,3 +2628,19 @@ The following figure shows an overview of selected prior, current, and future re
   note         = {Accessed: 2024-12-19}
 }
 ```
+## License
+
+This work is licensed under a **Creative Commons Attribution 4.0 International License**.
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+[Full license text](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
