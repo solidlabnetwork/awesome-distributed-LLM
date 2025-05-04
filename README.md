@@ -181,6 +181,12 @@ The following figure shows an overview of selected prior, current, and future re
 
 ![Research Directions](https://github.com/solidlabnetwork/awesome-distributed-LLM/blob/main/Figures/figfuture_001.jpg)
 ---
+---
+The following is list of papers to be considered for future revisions of the manuscript:
+
+[1] Li, Huaxia, and Miklos A. Vasarhelyi. "Applying large language models in accounting: A comparative analysis of different methodologies and off-the-shelf examples." Journal of Emerging Technologies in Accounting 21.2 (2024): 133-152.
+
+---
 ## Citation
 
 ```bibtex
